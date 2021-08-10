@@ -1,11 +1,11 @@
 <?php
 
-namespace App;
+namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class FormasPagamento extends Model
+class FormasPagamentos extends Model
 {
     protected $table = 'formas_pagamento';
     protected $primaryKey = 'id';

@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Routing\Controller;
 use Illuminate\Http\Request;
+use App\Models\Atividades;
 use App\Models\Produtos;
 use App\Models\Pedidos;
 use App\Models\Clientes;

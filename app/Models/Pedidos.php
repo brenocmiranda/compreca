@@ -12,7 +12,7 @@ class Pedidos extends Model
     protected $fillable = ['id', 'num_pedido', 'id_transacao', 'valor_produtos', 'valor_frete', 'valor_juros', 'valor_desconto', 'valor_total', 'id_nota', 'id_rastreio', 'id_forma_pagamento', 'id_forma_envio', 'id_cliente', 'id_endereco', 'created_at', 'updated_at'];
 
     public function RelationFormasPagamento(){
-        return $this->belongsTo(FormasPagamento::class, 'id_forma_pagamento');
+        return $this->belongsTo(FormasPagamentos::class, 'id_forma_pagamento');
     }
     public function RelationFormasEnvio(){
         return $this->belongsTo(FormasEnvio::class, 'id_forma_envio');

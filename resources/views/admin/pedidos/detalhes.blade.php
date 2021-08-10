@@ -381,7 +381,7 @@
                                             </div>
                                         </div>
                                         <hr>
-                                        <div class="d-flex pb-3">
+                                        <div class="pb-3">
                                             <div class="col-4">
                                                 <p class="mb-0">Afiliação: Pagar.me - Comprecá MarketPlace</p>
                                                 <p class="mb-0">ID-pagar.me: <b id="transactions">10.11.26.1</b>
@@ -390,7 +390,7 @@
                                                     </a>
                                                 </p>
                                             </div>
-                                            <div class="col-8 my-auto text-right">
+                                            <div class="col-8 mr-auto text-right">
                                                 <div class="buttons">
                                                     <a href="javascript:void(0)" class="btn btn-icon icon-left btn-danger shadow-none" id="btn-cancelar"><i class="fas fa-times"></i> Cancelar transação</a>
                                                 </div>
