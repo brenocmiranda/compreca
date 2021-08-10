@@ -1,0 +1,1 @@
+{{$geral->frase_descricao}}
