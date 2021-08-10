@@ -169,7 +169,7 @@
 	@endif
 @endforeach
 
-<!-- Indicações -->
+<!-- Indicações 
 <section class="banner2 bg-white p-t-55 p-b-55">
 	<div class="container">
 		<div class="row">
@@ -259,7 +259,7 @@
 		</div>
 	</div>
 </section>
-<!-- Indicações -->
+ Indicações -->
 
 
 <!-- Instagram -->
@@ -273,7 +273,7 @@
 	<div class="flex-w">
 		<!-- Block4 -->
 		<div class="block4 wrap-pic-w">
-			<img src="{{ asset('public/clients/images/gallery-03.jpg') }}" alt="IMG-INSTAGRAM">
+			<img src="{{ asset('public/cliente/images/gallery.jpg') }}" alt="IMG-INSTAGRAM">
 
 			<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 				<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -295,7 +295,7 @@
 
 		<!-- Block4 -->
 		<div class="block4 wrap-pic-w">
-			<img src="{{ asset('public/clients/images/gallery-07.jpg') }}" alt="IMG-INSTAGRAM">
+			<img src="{{ asset('public/cliente/images/gallery.jpg') }}" alt="IMG-INSTAGRAM">
 
 			<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 				<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -317,7 +317,7 @@
 
 		<!-- Block4 -->
 		<div class="block4 wrap-pic-w">
-			<img src="{{ asset('public/clients/images/gallery-09.jpg') }}" alt="IMG-INSTAGRAM">
+			<img src="{{ asset('public/cliente/images/gallery.jpg') }}" alt="IMG-INSTAGRAM">
 
 			<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 				<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -339,7 +339,7 @@
 
 		<!-- Block4 -->
 		<div class="block4 wrap-pic-w">
-			<img src="{{ asset('public/clients/images/gallery-13.jpg') }}" alt="IMG-INSTAGRAM">
+			<img src="{{ asset('public/cliente/images/gallery.jpg') }}" alt="IMG-INSTAGRAM">
 
 			<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 				<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
@@ -361,7 +361,7 @@
 
 		<!-- Block4 -->
 		<div class="block4 wrap-pic-w">
-			<img src="{{ asset('public/clients/images/gallery-15.jpg') }}" alt="IMG-INSTAGRAM">
+			<img src="{{ asset('public/cliente/images/gallery.jpg') }}" alt="IMG-INSTAGRAM">
 
 			<a href="#" class="block4-overlay sizefull ab-t-l trans-0-4">
 				<span class="block4-overlay-heart s-text9 flex-m trans-0-4 p-l-40 p-t-25">
