@@ -164,8 +164,6 @@ class PaginaInicialCtrl extends Controller
         return response()->json(['success' => true]);
     }
 
-
-
     // Avaliações
     public function Avaliacoes(){
         if(Auth::check()){

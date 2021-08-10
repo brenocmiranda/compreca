@@ -115,7 +115,6 @@ class MarketplaceCtrl extends Controller
     }
 
 
-
     // Listando sliders
     public function ExibirSlider(){
         if(Auth::guard('admin')->user()->RelationGrupo->ver_pagina == 1 || Auth::guard('admin')->user()->RelationGrupo->edit_pagina == 1){
